@@ -2,4 +2,4 @@
 
 https://www.coursera.org/specializations/deep-learning
 
-Quizes are not included atm
+Quizes are not included
